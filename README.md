@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AtharvaM0re
 - 👀 I’m interested in ...c, c++, python coding
 - 🌱 I’m currently learning ... github and its basics
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on ...projects including java 
 - 📫 How to reach me ...on my email address which is atharvamore4115@gmail.com
 
 <!---
